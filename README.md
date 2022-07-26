@@ -1,7 +1,7 @@
 # Overview:
 
  - `CNN`: contains code of MFRNet, training and evaluation.
- - `CNN/models/VTM162_BD_MFRNet_ORI`: contains MF-MFRNet models trained for all 4 QPs.
+ - `CNN/models/VTM162_BD_MFRNet_ORI`: contains MF-MFRNet models trained for 4 different QP settings.
  - `CNN/BC4/submit_train.sh`: BC4 job script for training MFRNet.
  - `EVAL_BC4.sh` : BC4 job script for decoding and evaluation.
  - `mainDec_EVAL.m`: decoder MATLAB script, called in the job script above.
